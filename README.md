@@ -4,13 +4,13 @@
 <p align="center">
     socials:
 <p align="center"> 
-    <a href="https://discord.com/users/499993799284621313">discord</a>
+    <a href="https://dsc.bio/poot1s">discord</a>
     |
-    <a href="https://www.nulled.to/user/2485701-">nulled</a>
+    <a href="https://www.instagram.com/poot1s">instagram</a>
     |
-    <a href="https://steamcommunity.com/id/Purelxw">steam</a>
+    <a href="https://steamcommunity.com/id/poot1s">steam</a>
     |
-    <a href="https://twitter.com/purelxw">twitter</a>
+    <a href="https://twitter.com/poot1s">twitter</a>
 </p>
 
 <p align="center">
