@@ -1,13 +1,25 @@
-<!-- Actual text -->
+<p align="center">  
+  <img src="https://cdn.discordapp.com/attachments/631162287968747550/762808835546808360/line.gif" alt="fax" width="1000" height="1">
+</p>
+<p align="center">
+    socials:
+<p align="center"> 
+    <a href="https://discord.com/users/499993799284621313">discord</a>
+    |
+    <a href="https://www.nulled.to/user/2485701-">nulled</a>
+    |
+    <a href="https://steamcommunity.com/id/Purelxw">steam</a>
+    |
+    <a href="https://twitter.com/purelxw">twitter</a>
+</p>
 
-You can find me on [![Twitter][1.2]][1], or on [![Instagram][2.2]][2].
+<p align="center">
+    i don't really repo anything so yh ok
+  
+<p align="center">  
+  <img src="https://media.discordapp.net/attachments/631162287968747550/775904570059915284/kratos.gif" alt="fax">
+</p>
 
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png
-[2.2]: https://cdn.discordapp.com/attachments/780190863984033812/780190910109319248/76191AAB-0336-462B-8963-E2CBD0F425CC.png
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/poot1s
-[2]: https://www.instagram.com/poot1s
+<p align="center">  
+  <img src="https://cdn.discordapp.com/attachments/631162287968747550/762808835546808360/line.gif" alt="fax" width="1000" height="1">
+</p>
