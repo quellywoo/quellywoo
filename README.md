@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-    i don't really repo anything so yh ok
+    @poots1s on most socials &#129415;
   
 <p align="center">  
   <img src="https://media.discordapp.net/attachments/631162287968747550/775904570059915284/kratos.gif" alt="fax">
