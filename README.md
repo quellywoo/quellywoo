@@ -17,7 +17,7 @@
     @poots1s on most socials &#129415;
   
 <p align="center">  
-  <img src="https://media.discordapp.net/attachments/631162287968747550/775904570059915284/kratos.gif" alt="fax">
+  <img src="https://cdn.discordapp.com/attachments/777715468094013450/777715570778570762/4F2FF4E9-8AE4-448A-8994-36CCE36B13DC.jpeg" alt="fax">
 </p>
 
 <p align="center">  
