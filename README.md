@@ -2,7 +2,7 @@
   <img src="https://cdn.discordapp.com/attachments/631162287968747550/762808835546808360/line.gif" alt="fax" width="1000" height="1">
 </p>
 <p align="center">
-    poot1s:
+    poot1s
 <p align="center"> 
     <a href="https://dsc.bio/poot1s">discord</a>
     ・
