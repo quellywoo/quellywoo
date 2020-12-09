@@ -17,7 +17,7 @@
     coming soon
   
 <p align="center">  
-  <img src="https://cdn.discordapp.com/attachments/783847826370330656/783847939172728862/9B5A6FC9-9688-4BA0-BC40-77AF7691379A.gif" alt="fax">
+  <img src="https://cdn.discordapp.com/attachments/786033836127551500/786034044865085451/winnerscircle03.jpg" alt="fax">
 </p>
 
 <p align="center">  
