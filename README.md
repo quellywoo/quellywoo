@@ -9,11 +9,11 @@
   </p>
   
   <p align="center">
-  <a href="https://www.github.com/convalesce">convalesce</a>
-    ・
     <a href="https://www.youtube.com/channel/UCHdRmE51aGWtoFQgmxQriVw">youtube</a>
-    ・
-    <a href="https://twitter.com/festives_">twitter</a>
+   ・    
+   <a href="https://www.github.com/convalesce">convalesce</a>
+   ・
+   <a href="https://twitter.com/festives_">twitter</a>
 </p>
 
 <p align="center">
