@@ -4,6 +4,8 @@
 <p align="center">
     Festive
   </p>
+  ![](https://komarev.com/ghpvc/?positivitism&color=010101&style=plastic)
+  </p>
   <p align="center">
 <a href="https://discord.gg/jDnQNEQDB9"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord">
   </p>
