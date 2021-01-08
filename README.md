@@ -6,11 +6,11 @@
 <p align="center"> 
     <a href="https://discord.gg/jDnQNEQDB9">discord</a>
     ・
-    <a href="https://www.instagram.com/f.estive">instagram</a>
+    <a href="https://www.github.com/convalesce">convalesce</a>
     ・
     <a href="https://www.youtube.com/channel/UCHdRmE51aGWtoFQgmxQriVw">youtube</a>
     ・
-    <a href="https://twitter.com/festivegg">twitter</a>
+    <a href="https://twitter.com/festives_">twitter</a>
 </p>
 
 <p align="center">
