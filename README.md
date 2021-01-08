@@ -5,7 +5,7 @@
     Festive
   </p>
   <p align="center">
-<a href="https://discord.gg/geJF43E"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord">
+<a href="https://discord.gg/jDnQNEQDB9"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord">
   </p>
   
   <p align="center">
