@@ -1,12 +1,14 @@
 <p align="center">  
   <img src="https://cdn.discordapp.com/attachments/631162287968747550/762808835546808360/line.gif" alt="fax" width="1000" height="1">
 </p>
-<p align="center">
+<p align="cente
+r">
     Festive
-<p align="center">
 <a href="https://discord.gg/geJF43E"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord">
   </p>
-    <a href="https://www.github.com/convalesce">convalesce</a>
+  
+  <p align="center">
+  <a href="https://www.github.com/convalesce">convalesce</a>
     ・
     <a href="https://www.youtube.com/channel/UCHdRmE51aGWtoFQgmxQriVw">youtube</a>
     ・
