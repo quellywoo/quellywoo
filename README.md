@@ -1,8 +1,7 @@
 <p align="center">  
   <img src="https://cdn.discordapp.com/attachments/631162287968747550/762808835546808360/line.gif" alt="fax" width="1000" height="1">
 </p>
-<p align="cente
-r">
+<p align="center">
     Festive
 <a href="https://discord.gg/geJF43E"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord">
   </p>
