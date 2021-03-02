@@ -11,18 +11,17 @@
   <p align="center">
     <a href="https://www.youtube.com/channel/UCHdRmE51aGWtoFQgmxQriVw">youtube</a>
    ・    
-   <a href="https://www.github.com/imisspopsmoke">popsmoke</a>
+   <a href="https://instagram.com/doublekilling">instagram</a>
    ・
-   <a href="https://twitter.com/festives_">twitter</a>
+   <a href="https://twitter.com/doublekilling">twitter</a>
 </p>
 
 <p align="center">
     	:dizzy:
   
 <p align="center">  
-  <img src="https://cdn.discordapp.com/attachments/786073266325946401/786075243374051358/D87408BB-84D0-4717-9CD6-E04A6EA6DB8E.jpeg" alt="fax">
+  <img src="https://cdn.discordapp.com/attachments/793783400757592065/815459329950875648/4613B7AB-5F5A-4C5D-B92B-B318B9A8A766.jpeg" alt="fax">
 </p>
 
 <p align="center">  
   <img src="https://cdn.discordapp.com/attachments/631162287968747550/762808835546808360/line.gif" alt="fax" width="1000" height="1">
-</p>
