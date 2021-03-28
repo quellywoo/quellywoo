@@ -12,8 +12,7 @@
    ・    
    <a href="https://solo.to/structure">Links</a>
 
-</p>
-
+<p align="center">
         ~+
 
                  *       +
