@@ -6,9 +6,9 @@
   <p align="center">
     <a href="https://www.youtube.com/channel/UCHdRmE51aGWtoFQgmxQriVw">Youtube</a>
    ・    
-   <a href="https://instagram.com/st.ructure">Instagram</a>
+   <a href="https://instagram.com/sleezher">Instagram</a>
    ・
-   <a href="https://twitter.com/1structure">Twitter</a>
+   <a href="https://twitter.com/sleezher">Twitter</a>
    ・    
    <a href="https://solo.to/structure">Links</a>
 
